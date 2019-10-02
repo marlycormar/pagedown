@@ -203,3 +203,9 @@ body {
   -webkit-print-color-adjust:exact;
   -webkit-filter:opacity(1);
 }
+
+.content pre {
+  font-size: 25px;
+  -webkit-print-color-adjust:exact;
+  -webkit-filter:opacity(1);
+}
