@@ -188,3 +188,13 @@ body {
     overflow-x: auto;
   }
 }
+
+.ui.ribbon.label {
+  background-color: #957DAD!important;
+  border-color: #70558a!important;
+}
+
+.ui.label {
+  color: white;
+}
+
