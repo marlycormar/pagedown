@@ -189,27 +189,32 @@ body {
   }
 }
 
+/* Change background color of ribons */
 .ui.ribbon.label {
   background-color: #957DAD!important;
   border-color: #70558a!important;
 }
 
+/* Change color of labels */
 .ui.label {
   color: white;
 }
 
+/* Change background color and fix shadow in top center box */
 .section-1 p{
   background-color: #957DAD!important;
   -webkit-print-color-adjust:exact;
   -webkit-filter:opacity(1);
 }
 
+/* Change font size and fix shadow of code boxes */
 .content pre {
   font-size: 25px;
   -webkit-print-color-adjust:exact;
   -webkit-filter:opacity(1);
 }
 
+/* Fix shadow of main content boxes */
 .ui.raised.segment {
   -webkit-print-color-adjust:exact;
   -webkit-filter:opacity(1);
