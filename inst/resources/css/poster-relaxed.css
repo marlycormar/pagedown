@@ -209,3 +209,8 @@ body {
   -webkit-print-color-adjust:exact;
   -webkit-filter:opacity(1);
 }
+
+.ui.raised.segment {
+  -webkit-print-color-adjust:exact;
+  -webkit-filter:opacity(1);
+}
