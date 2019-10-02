@@ -209,7 +209,7 @@ body {
 
 /* Change font size and fix shadow of code boxes */
 .content pre {
-  font-size: 25px;
+  font-size: 27px;
   -webkit-print-color-adjust:exact;
   -webkit-filter:opacity(1);
 }
