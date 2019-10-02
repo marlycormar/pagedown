@@ -219,3 +219,17 @@ body {
   -webkit-print-color-adjust:exact;
   -webkit-filter:opacity(1);
 }
+
+/* Change figure caption font size and padding */
+.figure .caption {
+  font-size: 24px;
+  padding: 0;
+}
+
+/* Change figure padding */
+.figure {
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-top: 1em;
+  padding-bottom: 0;
+}
