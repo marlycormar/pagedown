@@ -198,3 +198,8 @@ body {
   color: white;
 }
 
+.section-1 p{
+  background-color: #957DAD!important;
+  -webkit-print-color-adjust:exact;
+  -webkit-filter:opacity(1);
+}
