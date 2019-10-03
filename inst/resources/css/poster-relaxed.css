@@ -233,3 +233,9 @@ body {
   padding-top: 1em;
   padding-bottom: 0;
 }
+
+/* Change margin of github cards */
+.section-2 .card {
+  margin-top: 0px !important;
+  margin-right: 80px !important;
+}
